@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60196471489",
+    "firebase_url": "https://food-manager-78691-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "food-manager-78691",
+    "storage_bucket": "food-manager-78691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60196471489:android:ffab2da816f0d6cec14a40",
+        "android_client_info": {
+          "package_name": "com.example.foodmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60196471489-bol8of4fnlr53dcnir6s1j266tfth1si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodmanager",
+            "certificate_hash": "dec53baa4453d390f314cfcd9d49f31ea256efce"
+          }
+        },
+        {
+          "client_id": "60196471489-qv0chtj71i1oaq1ts3qbgk12ffha5500.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwt4z9EvdDZaJgoCd2jSVlLBV3Mecz-yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60196471489-1jmh0k7lfia9a5340h3qnrp4ff888kv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
